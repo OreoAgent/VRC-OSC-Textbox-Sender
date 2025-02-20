@@ -10,7 +10,6 @@ def getMessage():
 
 #Variables
 client = udp_client.SimpleUDPClient("127.0.0.1", 9000)
-print(f"Serving on {server.server_address}")
 
 #Loop to send a message to vrchat every 5 seconds blah blah blah
 while True:
