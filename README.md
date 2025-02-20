@@ -1,3 +1,7 @@
+#What is this?
+
+It is a static textbox sender (via osc) for VRChat. It just makes it so that a message of your choice appears (as long as you have the script running) above your head.
+
 # Instructions
 
 - If to run this, you first need to install python [here](https://www.python.org/downloads/)
