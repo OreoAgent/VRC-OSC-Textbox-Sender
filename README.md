@@ -1,4 +1,4 @@
-#What is this?
+# What is this?
 
 It is a static textbox sender (via osc) for VRChat. It just makes it so that a message of your choice appears (as long as you have the script running) above your head.
 
